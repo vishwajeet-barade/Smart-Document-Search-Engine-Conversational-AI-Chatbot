@@ -4,6 +4,8 @@
 
 DocuChat AI is an intelligent document processing and conversational AI application that combines semantic search capabilities with advanced RAG (Retrieval-Augmented Generation) technology. Upload documents or provide URLs, and chat with your content using natural language!
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5550514b-1c58-4419-9757-6510493d6910" />
+
 ## ✨ Features
 
 ### 🔍 **Semantic Search**
